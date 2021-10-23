@@ -1,6 +1,6 @@
-### Oi, meu nome é Josué! 👋
+### Oi, meu nome é Josué 👋
 
-## Eu sou um Estudante, Desenvolvedor e _[Carregando...]_!!
+## Eu sou um Estudante e Desenvolvedor!
 
 - 📚 Atualmente aprendendo de tudo
 - 💡 Procurando ideias interessantes e oportunidades
