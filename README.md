@@ -5,7 +5,7 @@
 - 📚 Atualmente aprendendo de tudo
 - 💡 Procurando ideias interessantes
 - ✏️ Sobre mim: Eu gosto de desenhar como hobbie
-- ☑️ Objetivo para 2024: Desenvolver 2 projetos ao longo do ano e atualizar meu portfólio 
+
 ### Dê uma olhada:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
