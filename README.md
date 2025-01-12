@@ -1,14 +1,12 @@
 ### Oi, meu nome é Josué 👋
 
-## Eu sou um Estudante e Desenvolvedor!
+## Eu sou um desenvolvedor backend!
 
 - 📚 Atualmente aprendendo de tudo
 - 💡 Procurando ideias interessantes
 - ✏️ Sobre mim: Eu gosto de desenhar como hobbie
 
 ### Dê uma olhada:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -32,15 +30,6 @@
 
 <br />
 <br />
----
 
-
-### ⚡ Github Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuepviana)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[website]: https://josueviana.com
 [linkedin]: https://www.linkedin.com/in/josue-viana/
 
